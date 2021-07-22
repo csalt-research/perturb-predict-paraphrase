@@ -27,3 +27,8 @@ $ CUDA_VISIBLE_DEVICES=0 sh train_student.sh
 ```
 
 See `opts.py` for the options. 
+
+## References
+1. https://github.com/ruotianluo/self-critical.pytorch
+2. https://github.com/husthuaan/AoANet
+3. https://github.com/ruotianluo/GoogleConceptualCaptioning
