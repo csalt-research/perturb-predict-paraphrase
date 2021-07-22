@@ -1,6 +1,6 @@
 # Perturb, Predict & Paraphrase: Semi-supervised Learning using Noisy Student for Image Captioning
 
-This repository includes the implementation of our paper. 
+This repository includes the implementation of "Perturb, Predict & Paraphrase: Semi-supervised Learning using Noisy Student for Image Captioning" to appear in the Proceedings of IJCAI (30th International Joint Conference on Artificial Intelligence), 2021.
 
 ## Requirements
 
