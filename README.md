@@ -7,8 +7,6 @@ This repository includes the implementation of our paper.
 - Python 3.6
 - Java 1.8.0
 - PyTorch 1.0
-- cider (need to be downloaded from the AoANet submodule)
-- coco-caption (need to be downloaded from the AoANet submodule)
 - tensorboardX
 
 
