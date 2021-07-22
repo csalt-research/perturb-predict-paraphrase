@@ -10,7 +10,7 @@ This repository includes the implementation of "Perturb, Predict & Paraphrase: S
 - tensorboardX
 
 
-## Training AoANet
+## Training 
 
 ### Prepare data
 
