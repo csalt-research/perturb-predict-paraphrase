@@ -1,5 +1,14 @@
 # Perturb, Predict & Paraphrase: Semi-supervised Learning using Noisy Student for Image Captioning
 
+<p>
+  <a href="https://www.ijcai.org/proceedings/2021/">
+    <img src="https://img.shields.io/badge/IJCAI-2021-red">
+  </a>
+    <a href="https://www.ijcai.org/proceedings/2021/0105.pdf">
+      <img src="http://img.shields.io/badge/Paper-PDF-brightgreen.svg">
+  </a>
+</p>
+
 This repository includes the implementation of "Perturb, Predict & Paraphrase: Semi-supervised Learning using Noisy Student for Image Captioning" to appear in the Proceedings of IJCAI (30th International Joint Conference on Artificial Intelligence), 2021.
 
 ## Requirements
