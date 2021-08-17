@@ -37,7 +37,7 @@ See `opts.py` for the options.
 
 ## Citation
 
-If you use this code for your research, please consider citing our arXiv preprint
+If you use this code for your research, please consider citing our work
 
 ```bibtex
 @inproceedings{ijcai2021-105,
