@@ -34,3 +34,25 @@ See `opts.py` for the options.
 1. https://github.com/ruotianluo/self-critical.pytorch
 2. https://github.com/husthuaan/AoANet
 3. https://github.com/ruotianluo/GoogleConceptualCaptioning
+
+## Citation
+
+If you use this code for your research, please consider citing our arXiv preprint
+
+```bibtex
+@inproceedings{ijcai2021-105,
+  title     = {Perturb, Predict & Paraphrase: Semi-Supervised Learning using Noisy Student for Image Captioning},
+  author    = {Jain, Arjit and Reddy Samala, Pranay and Jyothi, Preethi and Mittal, Deepak and Singh, Maneesh},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on
+               Artificial Intelligence, {IJCAI-21}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Zhi-Hua Zhou},
+  pages     = {758--764},
+  year      = {2021},
+  month     = {8},
+  note      = {Main Track}
+  doi       = {10.24963/ijcai.2021/105},
+  url       = {https://doi.org/10.24963/ijcai.2021/105},
+}
+
+```
