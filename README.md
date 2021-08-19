@@ -49,8 +49,13 @@ Then, generate pseudo-labels using
 $ CUDA_VISIBLE_DEVICES=0 sh get_pseudo_labels.sh
 ```
 
-Code for the paraphraser will be uploaded soon.
+### Paraphraser
 
+Refer to our paper for how to create a dataset for the paraphraser model. The code to train, and perform inference on the BART paraphraser can be found [here](https://github.com/ThilinaRajapakse/simpletransformers/tree/master/examples/seq2seq/paraphrasing). 
+
+### 1M unlabeled images
+
+Follow [https://github.com/ruotianluo/GoogleConceptualCaptioning](https://github.com/ruotianluo/GoogleConceptualCaptioning) for dataset creation and handling. 
 
 ## References
 1. https://github.com/ruotianluo/self-critical.pytorch
