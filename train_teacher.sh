@@ -1,7 +1,7 @@
 id="teacher"
 export LC_ALL="en_US.UTF-8"
 
-python3 trainstudent.py --id $id \
+python3 trainteacher.py --id $id \
     --fraction 0.01\
     --obj_dropout 0 \
     --caption_model aoa \
